@@ -153,7 +153,7 @@ This project includes a comprehensive set of visualisations that appear across t
 
 ---
 
-# 1. 🔍 Exploratory Data Analysis (EDA)
+## 1. 🔍 Exploratory Data Analysis (EDA)
 
 The EDA notebook (`1_EDA.ipynb`) contains all feature-level exploratory plots to understand the dataset’s structure, identify skewness, detect outliers, and explore variable relationships.
 
